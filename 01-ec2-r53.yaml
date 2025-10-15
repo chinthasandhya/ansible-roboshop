@@ -6,7 +6,7 @@
   vars:
     ami_id: ami-09c813fb71547fc4f
     sg_id: sg-071f5060587c84be7
-    zone_id: Z02150843EPAKGJ2WU2UT
+    zone_id: Z03098253L1ES9L5DP8EL
     domain_name: daws86s.sbs
     instance:
       - mongodb
